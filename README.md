@@ -20,6 +20,10 @@
 
 ## ЯндексПрактикум <a id='section2_id'></a>
 
+| Проект | Описание | Стэк
+| --- | --- | --- |
+| `git status` | List all *new or modified* files | Python pandas folium
+| `git diff` | Show file differences that **haven't been** staged |
 
 
 ## Контакты <a id='section3_id'></a>
