@@ -25,6 +25,7 @@
 | [`Анализ рынка заведений общественного питания`](https://github.com/AnnaLiho/Moscow_Coffee_analytics) | Анализ рынка заведений общественного питания в Москве по состоянию на 2022 год с целью открытия нового заведения | Python Jupyter pandas numpy seaborn matplotlib plotly folium-гео визуализация
 | [Game_business_analytics](https://github.com/AnnaLiho/Game_business_analytics/) | Проблема: Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки. Цель проекта: Проанализировать расходы на рекламу, разобраться в причинах убытков и помочь компании выйти в плюс. | Python Jupyter pandas numpy seaborn matplotlib
 | [Scooters_and_statistics](https://github.com/AnnaLiho/Scooters_and_statistics) | Сервис аренды самокатов: проверка гипотез для бизнеса о пользователях с подпиской и без | Python Jupyter pandas scipy.stats 
+| [TED конференции](..) | Дашборд Tablaue: аналитика конференций TED |  Tablaue
 
 ## Контакты <a id='section3_id'></a>
 Телеграмм @annette_liho
